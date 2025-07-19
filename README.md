@@ -6,10 +6,16 @@ ProdHub is the all-in-one app designed to help ambitious professionals master bo
 
 - **Project Management:** Keep tabs on all your goals, big and small. Track progress with intuitive bars and visualize milestones for courses, projects, and events.
 - **Smart Task Management:** Break projects into actionable steps, assign priorities, set deadlines, and stay on top of your to-do lists.
-- **AI-Powered Planning:** Launch new projects with confidence. Our AI assistant instantly generates a tailored task list, so you always know what's next.
-- **Habit Builder:** Form lasting habits with an easy-to-use visual tracker that helps you stay consistent, day after day.
-- **Unified Calendar:** See everything in one place—your deadlines, tasks, and Google Calendar events—streamlined for a stress-free schedule.
+- **AI-Powered Planning:** Launch new projects with confidence. Our AI assistant instantly generates a tailored task list, so you always know what's next. (Google Gemini 2.5 Pro Integrated)
+- **Habit Builder:** Form lasting habits with an easy-to-use visual tracker that helps you stay consistent, day after day- **Unified Calendar:** See everything in one place—your deadlines, tasks, and Google Calendar events—streamlined for a stress-free schedule.
 
 ProdHub doesn't just keep you organized; it helps you thrive. Focus on what matters, achieve more, and grow every day.
 
 **Start making progress — your way.**
+
+
+## Try ProdHub Now
+
+We are available at: [https://my-productivity-hub-5a3ba.web.app/](https://my-productivity-hub-5a3ba.web.app/)
+
+![ProdHub](https://github.com/Rupesh4604/ProdHub/blob/main/images/sheduler.png)
